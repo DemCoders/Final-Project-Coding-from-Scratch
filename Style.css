@@ -32,23 +32,22 @@ img {
 }
 
 #postFullName {
-    margin-left: auto;
-    margin-right: auto;
     text-align: center;
     font-size: 32px;
+    margin-right: 25px
 }
 
 #postAge {
     text-align:left;
-    
+    margin-left:4px
 }
 
 #postPhoneNumber {
     text-align: left;
-  
+    margin-left: 4px
 }
 
 #postAddress {
     text-align: left;
-   
+    margin-left: 4px
 }
